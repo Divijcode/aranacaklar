@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940593139309",
+    "project_id": "aranacaklar-467d3",
+    "storage_bucket": "aranacaklar-467d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940593139309:android:e1e1b89d046c5dc5e8b964",
+        "android_client_info": {
+          "package_name": "com.aranacaklar.official"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940593139309-vct6ddgi8itomfjg32jrtdtjvko4fplg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDheJ629Byu9C6nHOBxXWfWhYFxdpcCa-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940593139309-vct6ddgi8itomfjg32jrtdtjvko4fplg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
